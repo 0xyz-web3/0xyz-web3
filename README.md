@@ -1,5 +1,9 @@
 - 👋 Hi, I’m @0xyz-web3
-- 👀 I’m interested in smart contract and web3 develeopment
+- 👀 I’m interested in smart contract and web3 development.
+- 🧠 I have a Mechanical/Chemical Engineering background and my core competencies include:
+  -- smart contract development, deployment and testing, 
+  -- data science (data analysis/inference, machine learning)  and 
+  -- operations research (convex optimisation).
 - 🌱 I’m currently learning advanced Solidity, JavaScript and front-end development.
 - 💞️ I’m looking to collaborate on building and auditing smart contracts for decentralised finance applications.
 - 📫 How to reach me 0xyz.web@gmail.com
